@@ -1,0 +1,55 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>nsidnev - Nick Sidnev | nsidnev - Nick Sidnev</title><link>http://nsidnev.github.io/</link><description>nsidnev - Nick Sidnev | nsidnev - Nick Sidnev</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://nsidnev.github.io/" rel="self" type="application/rss+xml"/><item><title/><link>http://nsidnev.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://nsidnev.github.io/about/</guid><description>&lt;h1 id="about-me">About me&lt;/h1>
+&lt;p>I’m a python backend developer (but knowledgeable in other languages and technologies as well).
+A fan of static typing and high quality code (so I use &lt;a href="https://github.com/wemake-services/wemake-python-styleguide" target="_blank" rel="noopener noreffer">wemake-python-styleguide&lt;/a>
+and &lt;a href="https://github.com/python/mypy" target="_blank" rel="noopener noreffer">mypy&lt;/a>
+with a set of formatters for each personal project).&lt;/p>
+&lt;hr>
+&lt;h1 id="projects">Projects&lt;/h1>
+&lt;h3 id="fastapi-realworld-example-applicationhttpsgithubcomnsidnevfastapi-realworld-example-app---backend-logic-implementation-for-realworldhttpsgithubcomgothinksterrealworld-with-awesome-fastapi">&lt;a href="https://github.com/nsidnev/fastapi-realworld-example-app" target="_blank" rel="noopener noreffer">FastAPI RealWorld Example Application&lt;/a>
+- Backend logic implementation for &lt;a href="https://github.com/gothinkster/realworld" target="_blank" rel="noopener noreffer">realworld&lt;/a>
+with awesome FastAPI.&lt;/h3>
+&lt;h3 id="edgeql-querieshttpsgithubcomnsidnevedgeql-queries---simple-edgeql-in-python">&lt;a href="https://github.com/nsidnev/edgeql-queries" target="_blank" rel="noopener noreffer">EdgeQL Queries&lt;/a>
+- Simple EdgeQL in Python.&lt;/h3>
+&lt;h3 id="unasyncerhttpsgithubcomnsidnevunasyncer---cli-to-unasync-your-python-code">&lt;a href="https://github.com/nsidnev/unasyncer" target="_blank" rel="noopener noreffer">unasyncer&lt;/a>
+- CLI to &amp;ldquo;unasync&amp;rdquo; your python code.&lt;/h3>
+&lt;h3 id="mirumonhttpsgithubcommirumon---an-open-source-computer-monitoring-service">&lt;a href="https://github.com/mirumon" target="_blank" rel="noopener noreffer">Mirumon&lt;/a>
+- An open-source computer monitoring service.&lt;/h3>
+&lt;h3 id="pybotxhttpsgithubcomexpressapppybotx---a-little-python-library-for-building-bots-for-express-messenger">&lt;a href="https://github.com/ExpressApp/pybotx" target="_blank" rel="noopener noreffer">pybotx&lt;/a>
+- A little python library for building bots for Express messenger.&lt;/h3>
+&lt;hr>
+&lt;h1 id="contributions">Contributions&lt;/h1>
+&lt;h3 id="fastapihttpsgithubcomtiangolofastapi---fastapi-framework-high-performance-easy-to-learn-fast-to-code-ready-for-production">&lt;a href="https://github.com/tiangolo/fastapi" target="_blank" rel="noopener noreffer">FastAPI&lt;/a>
+- FastAPI framework, high performance, easy to learn, fast to code, ready for production.&lt;/h3>
+&lt;h3 id="tortoise-ormhttpsgithubcomtortoisetortoise-orm---familiar-asyncio-orm-for-python-built-with-relations-in-mind">&lt;a href="https://github.com/tortoise/tortoise-orm" target="_blank" rel="noopener noreffer">Tortoise ORM&lt;/a>
+- Familiar asyncio ORM for python, built with relations in mind.&lt;/h3>
+&lt;h3 id="httpxhttpsgithubcomencodehttpx---a-next-generation-http-client-for-python">&lt;a href="https://github.com/encode/httpx" target="_blank" rel="noopener noreffer">HTTPX&lt;/a>
+- A next generation HTTP client for Python.&lt;/h3>
+&lt;hr>
+&lt;h1 id="skills">Skills&lt;/h1>
+&lt;h3 id="python">Python&lt;/h3>
+&lt;ul>
+&lt;li>Dependency management: Poetry&lt;/li>
+&lt;li>Backend: FastAPI, AioHTTP, Django&lt;/li>
+&lt;li>Databases: SQLAlchemy core + &lt;a href="https://github.com/encode/databases" target="_blank" rel="noopener noreffer">Databases&lt;/a>
++ Alembic, &lt;a href="https://github.com/tortoise/tortoise-orm" target="_blank" rel="noopener noreffer">Tortoise-ORM&lt;/a>
++ asyncpg, pypika&lt;/li>
+&lt;li>Linters: mypy, &lt;a href="https://github.com/wemake-services/wemake-python-styleguide" target="_blank" rel="noopener noreffer">wemake-python-styleguide&lt;/a>
+&lt;/li>
+&lt;li>Style: Black, isort, autoflake&lt;/li>
+&lt;li>Testing: pytest&lt;/li>
+&lt;li>Other: Python/C API, Cython, PyO3&lt;/li>
+&lt;/ul>
+&lt;h3 id="cicd">CI/CD&lt;/h3>
+&lt;ul>
+&lt;li>CI/CD providers: CircleCI, GitLab CI/CD, GitHub Actions&lt;/li>
+&lt;li>Deployment: Docker, Traefik&lt;/li>
+&lt;/ul>
+&lt;h3 id="other">Other&lt;/h3>
+&lt;ul>
+&lt;li>PostgreSQL&lt;/li>
+&lt;li>Redis&lt;/li>
+&lt;li>RabbitMQ&lt;/li>
+&lt;li>JS: TS, Vue.js, Dart(Flutter)&lt;/li>
+&lt;li>Rust: tokio, actix&lt;/li>
+&lt;li>Go&lt;/li>
+&lt;/ul></description></item></channel></rss>
