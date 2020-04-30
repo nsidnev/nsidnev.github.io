@@ -22,6 +22,8 @@ with awesome FastAPI.&lt;/h3>
 - FastAPI framework, high performance, easy to learn, fast to code, ready for production.&lt;/h3>
 &lt;h3 id="tortoise-ormhttpsgithubcomtortoisetortoise-orm---familiar-asyncio-orm-for-python-built-with-relations-in-mind">&lt;a href="https://github.com/tortoise/tortoise-orm" target="_blank" rel="noopener noreffer">Tortoise ORM&lt;/a>
 - Familiar asyncio ORM for python, built with relations in mind.&lt;/h3>
+&lt;h3 id="pypikahttpsgithubcomkayakpypika---pypika-is-a-python-sql-query-builder-that-exposes-the-full-richness-of-the-sql-language-using-a-syntax-that-reflects-the-resulting-query-pypika-excels-at-all-sorts-of-sql-queries-but-is-especially-useful-for-data-analysis">&lt;a href="https://github.com/kayak/pypika" target="_blank" rel="noopener noreffer">PyPika&lt;/a>
+- PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis.&lt;/h3>
 &lt;h3 id="httpxhttpsgithubcomencodehttpx---a-next-generation-http-client-for-python">&lt;a href="https://github.com/encode/httpx" target="_blank" rel="noopener noreffer">HTTPX&lt;/a>
 - A next generation HTTP client for Python.&lt;/h3>
 &lt;hr>
@@ -37,7 +39,6 @@ with awesome FastAPI.&lt;/h3>
 &lt;/li>
 &lt;li>Style: Black, isort, autoflake&lt;/li>
 &lt;li>Testing: pytest&lt;/li>
-&lt;li>Other: Python/C API, Cython, PyO3&lt;/li>
 &lt;/ul>
 &lt;h3 id="cicd">CI/CD&lt;/h3>
 &lt;ul>
