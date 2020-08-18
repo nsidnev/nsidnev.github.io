@@ -1,6 +1,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>nsidnev - Nick Sidnev | nsidnev - Nick Sidnev</title><link>http://nsidnev.github.io/</link><description>nsidnev - Nick Sidnev | nsidnev - Nick Sidnev</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://nsidnev.github.io/" rel="self" type="application/rss+xml"/><item><title/><link>http://nsidnev.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://nsidnev.github.io/about/</guid><description>&lt;h1 id="about-me">About me&lt;/h1>
-&lt;p>I am a python backend developer (but knowledgeable in other languages and technologies as well).
-A fan of static typing and high quality code (so I use &lt;a href="https://github.com/wemake-services/wemake-python-styleguide" target="_blank" rel="noopener noreffer">wemake-python-styleguide&lt;/a>
+&lt;p>I am a python backend developer (but knowledgeable in other languages and technologies as well). Currently very interested in the &lt;a href="https://edgedb.com/" target="_blank" rel="noopener noreffer">EdgeDB&lt;/a>
+project. A fan of static typing and high quality code (so I use &lt;a href="https://github.com/wemake-services/wemake-python-styleguide" target="_blank" rel="noopener noreffer">wemake-python-styleguide&lt;/a>
 and &lt;a href="https://github.com/python/mypy" target="_blank" rel="noopener noreffer">mypy&lt;/a>
 with a set of formatters for each personal project).&lt;/p>
 &lt;hr>
@@ -10,22 +10,24 @@ with a set of formatters for each personal project).&lt;/p>
 with awesome FastAPI.&lt;/h3>
 &lt;h3 id="edgeql-querieshttpsgithubcomnsidnevedgeql-queries---simple-edgeql-in-python">&lt;a href="https://github.com/nsidnev/edgeql-queries" target="_blank" rel="noopener noreffer">EdgeQL Queries&lt;/a>
 - Simple EdgeQL in Python.&lt;/h3>
-&lt;h3 id="unasyncerhttpsgithubcomnsidnevunasyncer---cli-to-unasync-your-python-code">&lt;a href="https://github.com/nsidnev/unasyncer" target="_blank" rel="noopener noreffer">unasyncer&lt;/a>
-- CLI to &amp;ldquo;unasync&amp;rdquo; your python code.&lt;/h3>
+&lt;h3 id="edgedb-elixir-wiphttpsgithubcomnsidnevedgedb-elixir---elixir-driver-for-edgedb">&lt;a href="https://github.com/nsidnev/edgedb-elixir" target="_blank" rel="noopener noreffer">EdgeDB Elixir (WIP)&lt;/a>
+- Elixir driver for EdgeDB.&lt;/h3>
 &lt;h3 id="mirumonhttpsgithubcommirumon---an-open-source-computer-monitoring-service">&lt;a href="https://github.com/mirumon" target="_blank" rel="noopener noreffer">Mirumon&lt;/a>
 - An open-source computer monitoring service.&lt;/h3>
 &lt;h3 id="pybotxhttpsgithubcomexpressapppybotx---a-little-python-library-for-building-bots-for-express-messenger">&lt;a href="https://github.com/ExpressApp/pybotx" target="_blank" rel="noopener noreffer">pybotx&lt;/a>
-- A little python library for building bots for Express messenger.&lt;/h3>
+- A little python library for building bots for eXpress messenger.&lt;/h3>
 &lt;hr>
 &lt;h1 id="contributions">Contributions&lt;/h1>
+&lt;h3 id="edgedbhttpsgithubcomedgedbedgedb---the-next-generation-relational-database">&lt;a href="https://github.com/edgedb/edgedb" target="_blank" rel="noopener noreffer">EdgeDB&lt;/a>
+- The next generation relational database.&lt;/h3>
 &lt;h3 id="fastapihttpsgithubcomtiangolofastapi---fastapi-framework-high-performance-easy-to-learn-fast-to-code-ready-for-production">&lt;a href="https://github.com/tiangolo/fastapi" target="_blank" rel="noopener noreffer">FastAPI&lt;/a>
 - FastAPI framework, high performance, easy to learn, fast to code, ready for production.&lt;/h3>
+&lt;h3 id="httpxhttpsgithubcomencodehttpx---a-next-generation-http-client-for-python">&lt;a href="https://github.com/encode/httpx" target="_blank" rel="noopener noreffer">HTTPX&lt;/a>
+- A next generation HTTP client for Python.&lt;/h3>
 &lt;h3 id="tortoise-ormhttpsgithubcomtortoisetortoise-orm---familiar-asyncio-orm-for-python-built-with-relations-in-mind">&lt;a href="https://github.com/tortoise/tortoise-orm" target="_blank" rel="noopener noreffer">Tortoise ORM&lt;/a>
 - Familiar asyncio ORM for python, built with relations in mind.&lt;/h3>
 &lt;h3 id="pypikahttpsgithubcomkayakpypika---pypika-is-a-python-sql-query-builder-that-exposes-the-full-richness-of-the-sql-language-using-a-syntax-that-reflects-the-resulting-query-pypika-excels-at-all-sorts-of-sql-queries-but-is-especially-useful-for-data-analysis">&lt;a href="https://github.com/kayak/pypika" target="_blank" rel="noopener noreffer">PyPika&lt;/a>
 - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis.&lt;/h3>
-&lt;h3 id="httpxhttpsgithubcomencodehttpx---a-next-generation-http-client-for-python">&lt;a href="https://github.com/encode/httpx" target="_blank" rel="noopener noreffer">HTTPX&lt;/a>
-- A next generation HTTP client for Python.&lt;/h3>
 &lt;hr>
 &lt;h1 id="skills">Skills&lt;/h1>
 &lt;h3 id="python">Python&lt;/h3>
