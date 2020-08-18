@@ -1,0 +1,47 @@
+baseURL = "http://nsidnev.github.io/"
+defaultContentLanguage = "en"
+languageCode = "en"
+title = "nsidnev - Nick Sidnev"
+
+theme = "LoveIt"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+  version = "0.1.X"
+  description = "Backend Developer"
+  defaultTheme = "dark"
+
+  [params.home]
+    [params.home.profile]
+      enable = true
+      gravatarEmail = "snive2013@yandex.ru"
+      subtitle = "Backend Developer"
+      typeit = true
+      social = true
+
+    [params.home.posts]
+      enable = false
+      defaultHiddenFromHomePage = true
+
+  [params.social]
+    GitHub = "nsidnev"
+    Email = "sidnev.nick@gmail.com"
+    Telegram = "nsidnev"
+    VK = "sidnev_n"
+    Skype = "sidnev.nick@gmail.com"
+    LinkedIn = "nsidnev"
+    Twitter = "_nsidnev"
+
+[author]
+  name = "nsidnev"
+  link = "https://github.com/nsidnev"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+    weight = 1
