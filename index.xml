@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>nsidnev - Nick Sidnev | nsidnev - Nick Sidnev</title><link>http://nsidnev.github.io/</link><description>nsidnev - Nick Sidnev | nsidnev - Nick Sidnev</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://nsidnev.github.io/" rel="self" type="application/rss+xml"/><item><title/><link>http://nsidnev.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://nsidnev.github.io/about/</guid><description>&lt;h1 id="about-me">About me&lt;/h1>
 &lt;p>I am backend developer working at &lt;a href="https://www.express.ms/" target="_blank" rel="noopener noreffer">Unlimited Technologies on Express messanger&lt;/a>
 .
-Currently I&amp;rsquo;m very interested in the &lt;a href="https://edgedb.com/" target="_blank" rel="noopener noreffer">EdgeDB&lt;/a>
+Currently I am very interested in the &lt;a href="https://edgedb.com/" target="_blank" rel="noopener noreffer">EdgeDB&lt;/a>
 project and in the Rust language.&lt;/p>
 &lt;hr>
 &lt;h1 id="current-stack">Current stack&lt;/h1>
